@@ -1,4 +1,4 @@
-FROM webknjaz/freecad-cli:latest
+FROM quay.io/webknjaz/freecad-cli:latest
 MAINTAINER Sviatoslav Sydorenko <wk+freecad-cli-py3.7-docker@sydorenko.org.ua>
 
 RUN \
